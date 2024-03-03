@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tssp4038")(type "KiCad")(uri "D:/Lightgate/Lightgate/tssp4038.pretty")(options "")(descr ""))
+)

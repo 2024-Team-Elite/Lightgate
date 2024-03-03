@@ -430,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Emitter.kicad_pro",
+    "filename": "Receiver.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -468,7 +468,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Emitter.step",
+      "step": "",
       "svg": "",
       "vrml": ""
     },
@@ -574,7 +574,7 @@
   },
   "sheets": [
     [
-      "14a34d3d-937f-4bd8-b41b-2dd62862cf47",
+      "7e0fe819-ccc9-4312-883b-b9dcc40b4756",
       "Root"
     ]
   ],

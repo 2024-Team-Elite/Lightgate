@@ -547,7 +547,7 @@
 		(descr "JST XH series connector, B2B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST XH vertical boss")
 		(property "Reference" "J1"
-			(at 1.25 3.55 360)
+			(at 1.25 3.55 0)
 			(layer "B.SilkS")
 			(uuid "231b3344-8a6e-4a54-9c67-bf3a4d1d686a")
 			(effects
@@ -559,7 +559,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 1.25 -4.6 360)
+			(at 1.25 -4.6 0)
 			(layer "B.Fab")
 			(uuid "eedf94fa-0868-4f09-8404-94006ac1e25a")
 			(effects
@@ -609,7 +609,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/53ef7bf7-807b-41c2-85e0-035208f136b8")
+		(sheetname "Root")
+		(sheetfile "Emitter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.85 1.5)
@@ -952,7 +955,7 @@
 			(uuid "c5fd1633-8a81-403d-962c-0e5c66013046")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 -2.5 360)
+			(at 2.5 -2.5 0)
 			(layer "B.Fab")
 			(uuid "ca22fac6-30a8-4314-8934-f4a6aae4e733")
 			(effects
